@@ -18,7 +18,7 @@ git clone <'url'> ✔️ \
 ->username: <'github username'> \
 ->password: <'personal access token'> \
 ->(Profile -> Settings -> Developer settings -> Personal access tokens) ✔️ \
-->eg: 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 \
+->eg: ghp_PXGA5eNsPgrQ*********\
 \
 ls ✔️ \
 cd <'cloned folder name'> ✔️ \
